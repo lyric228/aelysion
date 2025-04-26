@@ -1,7 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/lyric228/aelysion_backend.git
-
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/lyric228/aelysion_frontend.git
